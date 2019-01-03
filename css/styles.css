@@ -2,7 +2,7 @@ body{
   margin: 0;
   text-align: center;
   font-family:  'Merriweather', serif;
-
+  background-color: #e4f9f5
 }
 .a{
   width: 200px;
@@ -18,6 +18,14 @@ h2{
 }
 h3{
   font-family: 'Montserrat',sans-serif;
+}
+hr{
+  background-color: #e4f9f5;
+  border-style: dotted;
+  width: 10%;
+  height: 0px;
+  border-top: 10px;
+  border-spacing: 20px;
 }
 .top-container{
 background-color: #e4f9f5;
